@@ -5,7 +5,7 @@ import { GoogleAuthProvider, getAuth } from "firebase/auth";
 // TODO: Replace the following with your app's Firebase project configuration
 // See: https://support.google.com/firebase/answer/7015592
 const firebaseConfig = {
-  apiKey: "AIzaSyDwTWGKsd1yYvPaG0pM09qpujcR_WBl1bQ",
+  apiKey: "",
   authDomain: "beard-ea459.firebaseapp.com",
   projectId: "beard-ea459",
   storageBucket: "beard-ea459.appspot.com",

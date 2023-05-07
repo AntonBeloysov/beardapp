@@ -1,0 +1,12 @@
+ 
+  body {
+    overflow: hidden;
+  }
+
+  #section1 {
+    color: #fff;
+  }
+  .section{
+    height: 100vh;
+    /* overflow: hidden; */
+  }
